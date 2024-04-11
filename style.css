@@ -1,0 +1,179 @@
+h1,
+h2,
+h3,
+body,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E7DFD8;
+    font-family: "Inter", sans-serif;
+    color: #101010;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1119px;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 35px;
+    padding: 28px 0;
+}
+
+/* Mickey Mouse */
+.mickey {
+    padding: 93px 0;
+}
+
+.mickey-container {
+    display: flex;
+    gap: 107px;
+}
+
+.mickey-img {
+    border-radius: 12px;
+}
+
+.mickey-span {
+    display: flex;
+    font-weight: 400;
+    font-size: 38px;
+    background-color: #b99fea;
+    border-radius: 100px;
+    width: 74px;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+}
+
+.mickey-text {
+    font-weight: 400;
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.mickey-text-2 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 35px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.mickey-link {
+    text-decoration: none;
+    background-color: #b99fea;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
+
+/* Coco */
+.coco {
+    padding: 93px 0;
+}
+
+.coco-container {
+    display: flex;
+    gap: 139 px;
+    flex-direction: row-reverse;
+}
+
+.coco-img {
+    border-radius: 12px;
+}
+
+.coco-span {
+    display: flex;
+    font-weight: 400;
+    font-size: 38px;
+    background-color: #eba789;
+    border-radius: 100px;
+    width: 74px;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.coco-text {
+    font-weight: 400;
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    gap: 21px;
+}
+
+.coco-text-2 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 35px;
+}
+
+.coco-link {
+    text-decoration: none;
+    background-color: #eba789;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
+
+/* Vayana */
+.vayana {
+    padding: 93px 0;
+}
+
+.vayana-container {
+    display: flex;
+    gap: 113px;
+}
+
+.vayana-img {
+    border-radius: 12px;
+}
+
+.vayana-span {
+    font-weight: 400;
+    display: flex;
+    font-size: 38px;
+    background-color: #96dbc6;
+    border-radius: 100px;
+    width: 74px;
+    height: 74px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.vayana-text {
+    font-weight: 400;
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    gap: 21px;
+}
+
+.vayana-text-2 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 35px;
+}
+
+.vayana-link {
+    text-decoration: none;
+    background-color: #96dbc6;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
